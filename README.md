@@ -2,6 +2,8 @@
 
 A smart and customizable **CPE/CEU Tracker** built in **Google Sheets** with automation powered by **Google Apps Script**. It supports various certification types including CISSP, CompTIA, ISACA, AWS, OSCP, and more.
 
+👉 **[📁 Open the Certification CPE Tracker Template Sheet](https://docs.google.com/spreadsheets/d/1PTX8ch5CoxuutM8OF-GR6mGllPfaRldYDdzC4EkM3QI/edit?usp=sharing)**
+
 ---
 
 ## ✨ Key Features
@@ -76,6 +78,8 @@ Each CPE event tracks:
 | J | Completion Status (`Completed`, `Not Completed`, `Upcoming`) |
 | K | Proof Uploaded to Portal (comma-separated certs) |
 
+![Certifications](./CPE_Events.png?raw=true "CPE Events")
+
 ---
 
 ### 📌 `CPE_Categories`
@@ -84,6 +88,8 @@ Each CPE event tracks:
 | A | Certification |
 | B | CPE Category |
 | C | Allowed CPEs (`No Limit` or numeric) |
+
+![Certifications](./CPE_Categories.png?raw=true "CPE Events")
 
 ---
 
