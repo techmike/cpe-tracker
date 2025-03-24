@@ -5,6 +5,18 @@ A smart and customizable **CPE/CEU Tracker** built in **Google Sheets** with aut
 👉 **[📁 Open the Certification CPE Tracker Template Sheet](https://docs.google.com/spreadsheets/d/1PTX8ch5CoxuutM8OF-GR6mGllPfaRldYDdzC4EkM3QI/edit?usp=sharing)**
 
 ---
+## 📝 Overview
+
+I created this tracker to help me manage my continuing education credits (CPEs/CEUs) across multiple certifications—some with renewal cycles, some with retakes, and others that are lifetime.
+
+My goal was to build a **simple, scalable system** that:
+- Tracks which CPEs apply to which certifications
+- Monitors expiration cycles and yearly progress
+- Flags events that still need action (like uploading proof)
+- Can grow with me year after year
+
+I hope this template helps others stay organized and confidently renew their certifications with ease.
+
 
 ## ✨ Key Features
 
